@@ -1,0 +1,7 @@
+main: pl.oucik.chat.Main
+name: O-ChatTools
+author: Out#9999
+version: 1.0.0
+commands:
+    helpop:
+    chat:
